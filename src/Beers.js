@@ -1,6 +1,5 @@
 // PACKAGES
 import { useEffect, useState } from "react";
-
 // COMPONENTS
 import BeerTeaser from "../Components/BeerTeaser";
 import Footer from "../Components/Footer";
@@ -9,11 +8,26 @@ import Footer from "../Components/Footer";
 
 const Beers = () => {
   const [beers, setBeers] = useState([]);
-  useEffect(() => {
-    fetch("https://ih-beers-api2.herokuapp.com/beers")
-      .then((response) => response.json())
-      .then((data) => setBeers(data));
-  }, []);
+
+  useEffect(()=> {
+   const fetchData = async () =>{
+    const res = await fetch("https://ih-beers-api2.herokuapp.com/beers")
+    const data = await res.json()
+    setBeers(data);
+   }
+   fetchData()
+    
+    
+  })
+
+  //useEffect(() => {
+   // const fetchData = async() => {
+   //   const data = await fetch("https://ih-beers-api2.herokuapp.com/beers")
+   //   if(!data.ok) throw new Error(data.statusText)
+   //   setBeers(data.json());
+   // }
+   //   fetchData()
+  //}, []);
   return (
     <>
       <main>

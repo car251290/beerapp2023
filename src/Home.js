@@ -23,13 +23,13 @@ const Home = () => {
         route="./beers"
         teaserImage={imgs[0]}
         teaserHeader="All Beers"
-        teaserText="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Justo, a, eleifend vitae varius venenatis."
+        teaserText="All the information of the bees"
       />
       <Teaser
         route={`./beers/${randomBeer._id}`}
         teaserImage={imgs[1]}
         teaserHeader="Random Beer"
-        teaserText="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Justo, a, eleifend vitae varius venenatis."
+        teaserText="Random beer selection to make the desicion."
       />
     </main>
   );

@@ -13,6 +13,8 @@ Call useCallback at the top level of your component to cache a function definiti
 # UseEffect
 
 # Boostrap
+Navbars require a wrapping .navbar with .navbar-expand{-sm|-md|-lg|-xl} for responsive collapsing and color scheme classes.
+Navbars and their contents are fluid by default. Use optional containers to limit their horizontal width.
 
 # Next.js 
 

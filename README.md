@@ -20,3 +20,5 @@ Navbars and their contents are fluid by default. Use optional containers to limi
 
 # Next.js 
 
+Routing	A file-system based router built on top of Server Components that supports layouts, nested routing, loading states, error handling, and more.
+Rendering	Client-side and Server-side Rendering with Client and Server Components. Further optimized with Static and Dynamic Rendering on the server with Next.js. Streaming on Edge and Node.js runtimes.

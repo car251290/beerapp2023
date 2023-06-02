@@ -24,6 +24,8 @@ Routing	A file-system based router built on top of Server Components that suppor
 Rendering	Client-side and Server-side Rendering with Client and Server Components. Further optimized with Static and Dynamic Rendering on the server with Next.js. Streaming on Edge and Node.js runtimes.
 
 <div> 
+    <img style="width: 15%;height:15%;" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png"> 
+  
 <img src="![Screen Shot 2023-06-02 at 2 13 21 PM](https://github.com/car251290/beerapp2023/assets/35305955/26cf98be-6cbf-425b-bbb1-ec46ffb954ec)">
 <img src=" ![Screen Shot 2023-06-02 at 2 13 02 PM](https://github.com/car251290/beerapp2023/assets/35305955/691c19e0-cb9a-4947-94b7-3a8edecda7ed)
 " >

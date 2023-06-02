@@ -23,7 +23,7 @@ Navbars and their contents are fluid by default. Use optional containers to limi
 Routing	A file-system based router built on top of Server Components that supports layouts, nested routing, loading states, error handling, and more.
 Rendering	Client-side and Server-side Rendering with Client and Server Components. Further optimized with Static and Dynamic Rendering on the server with Next.js. Streaming on Edge and Node.js runtimes.
 
-
+<div> 
 <img src="![Screen Shot 2023-06-02 at 2 13 21 PM](https://github.com/car251290/beerapp2023/assets/35305955/26cf98be-6cbf-425b-bbb1-ec46ffb954ec)">
 <img src=" ![Screen Shot 2023-06-02 at 2 13 02 PM](https://github.com/car251290/beerapp2023/assets/35305955/691c19e0-cb9a-4947-94b7-3a8edecda7ed)
 " >
@@ -33,3 +33,4 @@ Rendering	Client-side and Server-side Rendering with Client and Server Component
 
 <img src = " ![Screen Shot 2023-06-02 at 2 12 10 PM](https://github.com/car251290/beerapp2023/assets/35305955/c3c894d0-5c69-40c5-96c3-91ed82e3c41b)
 " >
+</div> 

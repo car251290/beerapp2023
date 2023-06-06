@@ -26,13 +26,13 @@ Rendering	Client-side and Server-side Rendering with Client and Server Component
 <div> 
     <img style="width: 15%;height:15%;" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png"> 
   
-<img src="![Screen Shot 2023-06-02 at 2 13 21 PM](https://github.com/car251290/beerapp2023/assets/35305955/26cf98be-6cbf-425b-bbb1-ec46ffb954ec)">
-<img src=" ![Screen Shot 2023-06-02 at 2 13 02 PM](https://github.com/car251290/beerapp2023/assets/35305955/691c19e0-cb9a-4947-94b7-3a8edecda7ed)
-" >
+<img src="https://github.com/car251290/beerapp2023/assets/35305955/26cf98be-6cbf-425b-bbb1-ec46ffb954ec">
+<img src=" ![Screen Shot 2023-06-02 at 2 13 02 PM](https://github.com/car251290/beerapp2023/assets/35305955/691c19e0-cb9a-4947-94b7-3a8edecda7ed)">
 
 <img src= "![Screen Shot 2023-06-02 at 2 12 29 PM](https://github.com/car251290/beerapp2023/assets/35305955/d031238f-ed31-4b39-92f6-2bb623f7004a)
 " >
 
 <img src = " ![Screen Shot 2023-06-02 at 2 12 10 PM](https://github.com/car251290/beerapp2023/assets/35305955/c3c894d0-5c69-40c5-96c3-91ed82e3c41b)
 " >
+     <img style ="width:15%; height:30%;" src="https://pathfortune.com/wp-content/uploads/2022/05/Rlogical-Blog-Images-thumbnail-1.png">
 </div> 

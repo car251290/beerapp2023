@@ -1,9 +1,9 @@
 
 ## beerapp2023
-
+URL deployment: https://vocal-horse-dc9d24.netlify.app
 # UseCallback 
 
-Call useCallback at the top level of your component to cache a function definition between re-renders
+Call use callback at the top level of your component to cache a function definition between re-renders
 
 # UseState: 
 initialState: The value you want the state to be initially. It can be a value of any type, but there is a special behavior for functions. This argument is ignored after the initial render.
@@ -17,7 +17,7 @@ Navbars and their contents are fluid by default. Use optional containers to limi
 
 # Next.js 
 
-Routing	A file-system based router built on top of Server Components that supports layouts, nested routing, loading states, error handling, and more.
+It is routing	A file-system-based router built on top of Server Components that supports layouts, nested routing, loading states, error handling, and more.
 Rendering	Client-side and Server-side Rendering with Client and Server Components. Further optimized with Static and Dynamic Rendering on the server with Next.js. Streaming on Edge and Node.js runtimes.
 
 <div> 
